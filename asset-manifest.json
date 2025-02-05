@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/GREEN_API/static/css/main.7fbd0411.css",
+    "main.js": "/GREEN_API/static/js/main.8a4d27cc.js",
+    "static/js/787.5c472d1d.chunk.js": "/GREEN_API/static/js/787.5c472d1d.chunk.js",
+    "static/media/school.png": "/GREEN_API/static/media/school.eb7e13266918171b0bb8.png",
+    "static/media/default-user.svg": "/GREEN_API/static/media/default-user.7c449334b05cdf4ed87b0aff1098050b.svg",
+    "index.html": "/GREEN_API/index.html",
+    "static/media/plus.svg": "/GREEN_API/static/media/plus.cf490e71938b076d7b2e9f51bf58d8a5.svg",
+    "static/media/tail-interlocutor.svg": "/GREEN_API/static/media/tail-interlocutor.f58f53e45bd50091e9d6f632541738e3.svg",
+    "static/media/tail-user.svg": "/GREEN_API/static/media/tail-user.1b05bfb57b6e9cd65b749b8e61b0cbf8.svg",
+    "static/media/send-message.svg": "/GREEN_API/static/media/send-message.fd750969e2b353f12795991272aa5e47.svg",
+    "main.7fbd0411.css.map": "/GREEN_API/static/css/main.7fbd0411.css.map",
+    "main.8a4d27cc.js.map": "/GREEN_API/static/js/main.8a4d27cc.js.map",
+    "787.5c472d1d.chunk.js.map": "/GREEN_API/static/js/787.5c472d1d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7fbd0411.css",
+    "static/js/main.8a4d27cc.js"
+  ]
+}
