@@ -1,0 +1,57 @@
+.contacts {
+  background-color: #fff;
+  border-right: 1px solid #d1d7db;
+  height: 100%;
+
+  &__wrapper {
+    border-bottom: 1px solid #f0f2f5;
+
+    span {
+      display: block;
+      color: red;
+      font-size: 12px;
+      padding: 0 0 5px 14px;
+      animation: appearance 3s forwards;
+    }
+  }
+
+  &__input {
+    display: flex;
+    gap: 5px;
+    padding: 10px 3px 10px 12px;
+
+    input {
+      width: 89%;
+    }
+
+    button {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      flex: 1;
+
+      svg {
+        width: 27px;
+      }
+    }
+  }
+
+  &__container {
+    overflow-y: auto;
+    height: calc(100vh - 147px);
+
+    div {
+      background-color: #fff;
+      border-bottom: 1px solid #f0f2f5;
+    }
+  }
+}
+
+@keyframes appearance {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
